@@ -1,4 +1,4 @@
-# python-projeks
+# Projeks
 Python projeks to build and extend knowledge of code base
 
 ## Projek List
